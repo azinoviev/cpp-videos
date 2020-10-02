@@ -24,6 +24,10 @@
 * [C++Now](https://www.youtube.com/user/BoostCon/)
 * [Meeting Cpp](https://www.youtube.com/c/MeetingCPP/)
 * [Pacific++](https://www.youtube.com/c/Pacificplusplus/)
+* [C++ Europe](https://www.youtube.com/c/CppEurope/)
+  * [C++ Europe 2020](https://www.youtube.com/playlist?list=PLKkbEnCSP7sek-bn-Ae-b16aa7y_mc2EH)
+  * [C++ Europe 2019](https://www.youtube.com/playlist?list=PLKkbEnCSP7sezU3eY8f7NrbJp5g4Kfurl)
+  * [C++ Europe 2018](https://www.youtube.com/playlist?list=PLKkbEnCSP7sfCuSYTm7gh0leP-HzN7O35) 
 * [SwedenCpp](https://www.youtube.com/channel/UC_LAXFBuK7J2J6NLiYzdPEA)
 * [ACCU](https://www.youtube.com/c/ACCUConf/)
 
