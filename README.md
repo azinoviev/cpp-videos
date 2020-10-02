@@ -4,6 +4,7 @@
 - [C++ Videos](#c-videos)
   - [Contents](#contents)
   - [Conferences](#conferences)
+  - [User Groups](#user-groups)
   - [Talks](#talks)
   - [Meetups](#meetups)
   - [Podcasts](#podcasts)
@@ -23,10 +24,12 @@
 * [C++Now](https://www.youtube.com/user/BoostCon/)
 * [Meeting Cpp](https://www.youtube.com/c/MeetingCPP/)
 * [Pacific++](https://www.youtube.com/c/Pacificplusplus/)
-* [MUC++](https://www.youtube.com/channel/UCf3tX0nf8EFIwmgQBH6PIGw)
 * [SwedenCpp](https://www.youtube.com/channel/UC_LAXFBuK7J2J6NLiYzdPEA)
-* [C++TO](https://www.youtube.com/channel/UCtmKQ8zO7GGJ9qJ59msnROg/)
 * [ACCU](https://www.youtube.com/c/ACCUConf/)
+
+## User Groups
+* [The Munich C++ User Group](https://www.youtube.com/channel/UCf3tX0nf8EFIwmgQBH6PIGw)
+* [The Toronto C++ User Group](https://www.youtube.com/channel/UCtmKQ8zO7GGJ9qJ59msnROg/)
 
 ## Talks
 * [Alexander Stepanov: STL and Its Design Principles (at Adobe, 2002)](https://www.youtube.com/watch?v=1-CmNNp5eag)
