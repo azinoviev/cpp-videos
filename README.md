@@ -34,6 +34,7 @@
 ## User Groups
 * [The Munich C++ User Group](https://www.youtube.com/channel/UCf3tX0nf8EFIwmgQBH6PIGw)
 * [The Toronto C++ User Group](https://www.youtube.com/channel/UCtmKQ8zO7GGJ9qJ59msnROg/)
+* [C/C++ Dublin User Group](https://www.youtube.com/c/CCDublinUserGroup)
 
 ## Talks
 * [Alexander Stepanov: STL and Its Design Principles (at Adobe, 2002)](https://www.youtube.com/watch?v=1-CmNNp5eag)
