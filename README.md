@@ -21,6 +21,13 @@
   * [CppCon 2015](https://www.youtube.com/playlist?list=PLHTh1InhhwT75gykhs7pqcR_uSiG601oh)
   * [CppCon 2014](https://www.youtube.com/playlist?list=PLHTh1InhhwT7esTl1bRitiizeEnksGU7J)
 * [C++ on Sea](https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw)
+  * [C++ on Sea 2020 - Day 1 Talks](https://www.youtube.com/playlist?list=PL5XXu3X6L7juEpWIifd7h7c0h1y5s_DbE)
+  * [C++ on Sea 2020 - Day 2 Talks](https://www.youtube.com/playlist?list=PL5XXu3X6L7jvdtND1SqgA3V-mfappzRIu)
+  * [C++ on Sea 2020 - Day 3 Talks](https://www.youtube.com/playlist?list=PL5XXu3X6L7jvH9wRBfhzeW3tmazoFSrkC)
+  * [C++ on Sea 2020 - Lightning Talks](https://www.youtube.com/playlist?list=PL5XXu3X6L7jtcXY9Ilpv7WhDS6lEo1hBz)
+  * [C++ on Sea 2019 - Day 1 Talks](https://www.youtube.com/playlist?list=PL5XXu3X6L7jtk7-GIVq3-bkKDKDtoagj4)
+  * [C++ on Sea 2019 - Day 2 Talks](https://www.youtube.com/playlist?list=PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv)
+  * [C++ on Sea 2019 - Lightning Talks](https://www.youtube.com/playlist?list=PL5XXu3X6L7juIhIykfhFmjyl4D5Tvjvdh)
 * [C++Now](https://www.youtube.com/user/BoostCon/)
 * [Meeting Cpp](https://www.youtube.com/c/MeetingCPP/)
 * [Pacific++](https://www.youtube.com/c/Pacificplusplus/)
@@ -38,6 +45,7 @@
 
 ## Talks
 * [Alexander Stepanov: STL and Its Design Principles (at Adobe, 2002)](https://www.youtube.com/watch?v=1-CmNNp5eag)
+* [Bjarne Stroustrup - The Essence of C++ (at the University of Edinburgh, 2014)](https://www.youtube.com/watch?v=86xWVb4XIyE)
 
 ## Meetups
 * [Avast C++ Meetup](https://www.youtube.com/playlist?list=PLcx5OZDrH5tv9Bz9VGYV7fQCUkOTixOVl)
