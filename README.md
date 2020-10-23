@@ -59,6 +59,7 @@
 ## Interviews
 * [Lex Fridman Podcast #48: Bjarne Stroustrup](https://www.youtube.com/watch?v=uTxRF5ag27A)
 * [Ask Me Anything with Bjarne Stroustrup](https://www.youtube.com/watch?v=Bycec3UQxOc)
+* [Herb Sutter — Interview and Q&A with Herb Sutter](https://www.youtube.com/watch?v=40l262NkRO0)
 
 ## Russian
 * Конференции
