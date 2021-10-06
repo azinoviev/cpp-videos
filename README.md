@@ -39,6 +39,7 @@
   * [C++ Europe 2018](https://www.youtube.com/playlist?list=PLKkbEnCSP7sfCuSYTm7gh0leP-HzN7O35) 
 * [SwedenCpp](https://www.youtube.com/channel/UC_LAXFBuK7J2J6NLiYzdPEA)
 * [ACCU](https://www.youtube.com/c/ACCUConf/)
+  * [ACCU 2021](https://www.youtube.com/playlist?list=PL9hrFapz4dsOtEEFdSVcYdLPLMPqztaF5) 
 
 ## User Groups
 * [The Munich C++ User Group](https://www.youtube.com/channel/UCf3tX0nf8EFIwmgQBH6PIGw)
