@@ -67,7 +67,7 @@
 ## Russian
 * Конференции
   * [corehard](https://www.youtube.com/channel/UCifgOu6ARWbZ_dV29gss8xw)
-  * [C++ User Group](https://www.youtube.com/playlist?list=PLHTh1InhhwT75gykhs7pqcR_uSiG601oh)
+  * [C++ User Group](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA)
 * C++ Meetup Moscow
   * [C++ Meetup Moscow #6](https://www.youtube.com/playlist?list=PLrCZzMib1e9qEDfuVxnIe6o3Mfo_Y00EX)
   * [C++ Meetup Moscow #8](https://www.youtube.com/playlist?list=PLrCZzMib1e9omsGDD9qDHYg8f19eoZiIe)
