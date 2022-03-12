@@ -59,7 +59,7 @@
 ## Podcasts
 * [Cpp.chat](https://www.youtube.com/c/Cppchat/)
 * [CppCast](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA)
-* [C++ Weekly](https://www.youtube.com/c/JasonTurner-lefticus/)
+* [C++ Weekly](https://www.youtube.com/channel/UCxHAlbZQNFU2LgEtiqd2Maw)
 
 ## Interviews
 * [Lex Fridman Podcast #48: Bjarne Stroustrup](https://www.youtube.com/watch?v=uTxRF5ag27A)
