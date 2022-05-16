@@ -71,8 +71,10 @@
   * [corehard](https://www.youtube.com/channel/UCifgOu6ARWbZ_dV29gss8xw)
   * [C++ User Group](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA)
 * C++ Meetup Moscow
-  * [C++ Meetup Moscow #6](https://www.youtube.com/playlist?list=PLrCZzMib1e9qEDfuVxnIe6o3Mfo_Y00EX)
+  * [С++ Meetup Moscow #10](https://www.youtube.com/watch?v=3LGOhrlViKU)
+  * [С++ Meetup Moscow #9](https://www.youtube.com/watch?v=JZ2d7JbJIJs)
   * [C++ Meetup Moscow #8](https://www.youtube.com/playlist?list=PLrCZzMib1e9omsGDD9qDHYg8f19eoZiIe)
+  * [C++ Meetup Moscow #6](https://www.youtube.com/playlist?list=PLrCZzMib1e9qEDfuVxnIe6o3Mfo_Y00EX)
 * Лекции 
   * [Семинары PVS-Studio](https://www.youtube.com/playlist?list=PLmGioT8z4uobADCfbspDyzZtshzFFCRyj)
   * [Тимофей Хирьянов: 2017-2018 ООП на C++14](https://www.youtube.com/playlist?list=PLRDzFCPr95fItmofHO4KuGjfGtbQtEj-x)
