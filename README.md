@@ -70,6 +70,7 @@
 * Конференции
   * [corehard](https://www.youtube.com/channel/UCifgOu6ARWbZ_dV29gss8xw)
   * [C++ User Group](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA)
+  * [C++ ZeroCost Conf](https://www.youtube.com/playlist?list=PLQC2_0cDcSKDax22kVCWIY9xV7PpTOLAj)
 * C++ Meetup Moscow
   * [С++ Meetup Moscow #10](https://www.youtube.com/watch?v=3LGOhrlViKU)
   * [С++ Meetup Moscow #9](https://www.youtube.com/watch?v=JZ2d7JbJIJs)
