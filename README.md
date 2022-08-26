@@ -44,7 +44,9 @@
 * [SwedenCpp](https://www.youtube.com/channel/UC_LAXFBuK7J2J6NLiYzdPEA)
 * [ACCU](https://www.youtube.com/c/ACCUConf/)
   * [ACCU 2022](https://www.youtube.com/playlist?list=PL9hrFapz4dsNx4kjMVgGMP6u37U1dSy7F)
-  * [ACCU 2021](https://www.youtube.com/playlist?list=PL9hrFapz4dsOtEEFdSVcYdLPLMPqztaF5) 
+  * [ACCU 2021](https://www.youtube.com/playlist?list=PL9hrFapz4dsOtEEFdSVcYdLPLMPqztaF5)
+* [CppNorth](https://www.youtube.com/channel/UCGWAlXciy785Iog-X7247Hw)
+  * [CppNorth 2022](https://www.youtube.com/playlist?list=PLpGV-BujcAKFVCWOBj2548vuxJ1lV5w6-)
 
 ## User Groups
 * [The Munich C++ User Group](https://www.youtube.com/channel/UCf3tX0nf8EFIwmgQBH6PIGw)
