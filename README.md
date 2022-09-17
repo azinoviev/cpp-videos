@@ -39,6 +39,7 @@
   * [Meeting C++ 2021](https://www.youtube.com/playlist?list=PLRyNF2Y6sca1IY8wvpIQ8t2gQ49ncgwkr) 
 * [Pacific++](https://www.youtube.com/c/Pacificplusplus/)
 * [C++ Europe](https://www.youtube.com/c/CppEurope/)
+  * [C++ Europe 2022](https://www.youtube.com/playlist?list=PLKkbEnCSP7scI2VElbLDLGnuJig1ogRJB)
   * [C++ Europe 2020](https://www.youtube.com/playlist?list=PLKkbEnCSP7sek-bn-Ae-b16aa7y_mc2EH)
   * [C++ Europe 2019](https://www.youtube.com/playlist?list=PLKkbEnCSP7sezU3eY8f7NrbJp5g4Kfurl)
   * [C++ Europe 2018](https://www.youtube.com/playlist?list=PLKkbEnCSP7sfCuSYTm7gh0leP-HzN7O35) 
