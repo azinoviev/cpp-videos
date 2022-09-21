@@ -34,6 +34,7 @@
   * [C++ on Sea 2019 - Lightning Talks](https://www.youtube.com/playlist?list=PL5XXu3X6L7juIhIykfhFmjyl4D5Tvjvdh)
 * [CppNow](https://www.youtube.com/user/BoostCon/)
   * [CppNow 2022](https://www.youtube.com/playlist?list=PLkzVTOpH3U6yjiGx2gQvCky_DQUOdoalz)
+  * [CppNow 2022 Lightning Talks](https://www.youtube.com/playlist?list=PL_AKIMJc4roV7KIsE8gt3sO56_9MlO_i8)
   * [CppNow 2021](https://www.youtube.com/playlist?list=PL_AKIMJc4roXvFWuYzTL7Xe7j4qukOXPq) 
 * [Meeting C++](https://www.youtube.com/c/MeetingCPP/)
   * [Meeting C++ 2021](https://www.youtube.com/playlist?list=PLRyNF2Y6sca1IY8wvpIQ8t2gQ49ncgwkr) 
