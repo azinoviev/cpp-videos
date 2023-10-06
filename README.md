@@ -13,6 +13,7 @@
 
 ## Conferences
 * [CppCon](https://www.youtube.com/user/CppCon)
+  * [CppCon 2023](https://www.youtube.com/playlist?list=PLHTh1InhhwT7gQEuYznhhvAYTel0qzl72)
   * [CppCon 2022](https://www.youtube.com/playlist?list=PLHTh1InhhwT6c2JNtUiJkaH8YRqzhU7Ag)
   * [CppCon 2021](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bY4nS4p7f5b_754myC3ze)
   * [CppCon 2020](https://www.youtube.com/playlist?list=PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr)
