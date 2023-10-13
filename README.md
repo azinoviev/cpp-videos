@@ -55,6 +55,19 @@
 * [CppNorth](https://www.youtube.com/channel/UCGWAlXciy785Iog-X7247Hw)
   * [CppNorth 2023](https://www.youtube.com/playlist?list=PLpGV-BujcAKElznr6ifbkjNj6sMNaHR58)
   * [CppNorth 2022](https://www.youtube.com/playlist?list=PLpGV-BujcAKFVCWOBj2548vuxJ1lV5w6-)
+* [Core C++](https://www.youtube.com/@corecpp)
+  * [Core C++ 2023](https://www.youtube.com/playlist?list=PLn4wYlDYx4bs0p9S6aFvKaASoCLFVwt_E)
+  * [Core C++ 2022](https://www.youtube.com/playlist?list=PLn4wYlDYx4bti4V3tqS0plVNRCbKAnLuC)
+  * [Core C++ 2021](https://www.youtube.com/playlist?list=PLn4wYlDYx4bt5jDwyOleg6J4kTtAu2rU5)
+* [CppIndia](https://www.youtube.com/@CppIndiaUG)
+  * [CppIndiaCon 2023](https://www.youtube.com/playlist?list=PLZ3iYBI9ConiCJr9PfeEio7smulDni8dE)
+  * [CppIndiaCon 2022](https://www.youtube.com/playlist?list=PLZ3iYBI9ConjHYplbyNYShZJW1qbSLXfi)
+  * [CppIndiaCon 2021](https://www.youtube.com/playlist?list=PLZ3iYBI9Conj6Vbm0KZhDAYOiXPVfSfip)
+* [Italian C++ Conference](https://www.youtube.com/@ItalianCppCommunity)
+  * [Italian C++ Conference 2023](https://www.youtube.com/playlist?list=PLsCm1Hs016LWmLbXL7in73BgB9AhMrfDa)
+  * [Italian C++ Conference 2021](https://www.youtube.com/playlist?list=PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki)
+* Microsoft
+  * [Pure Virtual C++ 2023](https://www.youtube.com/playlist?list=PLReL099Y5nRc8Cbb_fodHFQeZ5I4N7KYo)  
 
 ## User Groups
 * [The Munich C++ User Group](https://www.youtube.com/channel/UCf3tX0nf8EFIwmgQBH6PIGw)
