@@ -112,6 +112,7 @@
   * [CSC: Курс "Программирование на C++. Часть 1" (осень 2018)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL)
   * [CSC: Курс "Программирование на C++. Часть 2" (весна 2019)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN)
   * [Углубленное программирование на C/C++ (Техносфера, 2018)](https://www.youtube.com/playlist?list=PLrCZzMib1e9qjGLjg83bCksf3N7FIy7jg)
+  * [ФПМИ: Метапрограммирование (4 курс, осень 2023) - Санду Р. А.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYO01i2gR-prnu4Stvxuf7u)
   * [ФПМИ: Продвинутое программирование на C++ (1 курс, весна 2022) - И. С. Мещерин](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaWsj3-0gLH_yEZfKdTife0)
   * [ФПМИ: C++ (1 курс, весна 2023) - И. С. Мещерин](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZATDL6xxWCrHDqBF50RfKW)
   * [ФПМИ: Программирование на языке С++ (базовый поток) (1 курс, осень 2021) - Шедов С. В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYFv2lj3ARJaTllQugxl2zF)
