@@ -24,6 +24,7 @@
   * [CppCon 2015](https://www.youtube.com/playlist?list=PLHTh1InhhwT75gykhs7pqcR_uSiG601oh)
   * [CppCon 2014](https://www.youtube.com/playlist?list=PLHTh1InhhwT7esTl1bRitiizeEnksGU7J)
 * [C++ on Sea](https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw)
+  * [C++ on Sea 2024](https://www.youtube.com/playlist?list=PL5XXu3X6L7jsQpt18_TNitUW5KquxMSan)  
   * [C++ on Sea 2023](https://www.youtube.com/playlist?list=PL5XXu3X6L7jtXSfqjaQnVXJOCFRyfHrS6)
   * [C++ on Sea 2022](https://www.youtube.com/playlist?list=PL5XXu3X6L7jse37HBRfXJJwcgQWHBIg9i)
   * [C++ on Sea 2021](https://www.youtube.com/playlist?list=PL5XXu3X6L7jsIaVI82HXU3p2yRz2kVDZf)
