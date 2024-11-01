@@ -59,6 +59,7 @@
   * [ACCU 2022](https://www.youtube.com/playlist?list=PL9hrFapz4dsNx4kjMVgGMP6u37U1dSy7F)
   * [ACCU 2021](https://www.youtube.com/playlist?list=PL9hrFapz4dsOtEEFdSVcYdLPLMPqztaF5)
 * [CppNorth](https://www.youtube.com/channel/UCGWAlXciy785Iog-X7247Hw)
+  * [CppNorth 2024](https://www.youtube.com/playlist?list=PLpGV-BujcAKHQDs6kHZPt1Q7f2iOEhHxZ)
   * [CppNorth 2023](https://www.youtube.com/playlist?list=PLpGV-BujcAKElznr6ifbkjNj6sMNaHR58)
   * [CppNorth 2022](https://www.youtube.com/playlist?list=PLpGV-BujcAKFVCWOBj2548vuxJ1lV5w6-)
 * [Core C++](https://www.youtube.com/@corecpp)
