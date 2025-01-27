@@ -68,6 +68,7 @@
   * [Core C++ 2022](https://www.youtube.com/playlist?list=PLn4wYlDYx4bti4V3tqS0plVNRCbKAnLuC)
   * [Core C++ 2021](https://www.youtube.com/playlist?list=PLn4wYlDYx4bt5jDwyOleg6J4kTtAu2rU5)
 * [CppIndia](https://www.youtube.com/@CppIndiaUG)
+  * [CppIndiaCon 2024](https://www.youtube.com/playlist?list=PLZ3iYBI9Cong4PnW8alNRC3Py-i2P8bfm)
   * [CppIndiaCon 2023](https://www.youtube.com/playlist?list=PLZ3iYBI9ConiCJr9PfeEio7smulDni8dE)
   * [CppIndiaCon 2022](https://www.youtube.com/playlist?list=PLZ3iYBI9ConjHYplbyNYShZJW1qbSLXfi)
   * [CppIndiaCon 2021](https://www.youtube.com/playlist?list=PLZ3iYBI9Conj6Vbm0KZhDAYOiXPVfSfip)
