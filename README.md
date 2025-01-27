@@ -63,6 +63,7 @@
   * [CppNorth 2023](https://www.youtube.com/playlist?list=PLpGV-BujcAKElznr6ifbkjNj6sMNaHR58)
   * [CppNorth 2022](https://www.youtube.com/playlist?list=PLpGV-BujcAKFVCWOBj2548vuxJ1lV5w6-)
 * [Core C++](https://www.youtube.com/@corecpp)
+  * [Core C++ 2024](https://www.youtube.com/playlist?list=PLn4wYlDYx4btpigVq25WXXnzlDiZr1QWg) 
   * [Core C++ 2023](https://www.youtube.com/playlist?list=PLn4wYlDYx4bs0p9S6aFvKaASoCLFVwt_E)
   * [Core C++ 2022](https://www.youtube.com/playlist?list=PLn4wYlDYx4bti4V3tqS0plVNRCbKAnLuC)
   * [Core C++ 2021](https://www.youtube.com/playlist?list=PLn4wYlDYx4bt5jDwyOleg6J4kTtAu2rU5)
