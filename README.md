@@ -43,6 +43,7 @@
   * [CppNow 2022 Lightning Talks](https://www.youtube.com/playlist?list=PL_AKIMJc4roV7KIsE8gt3sO56_9MlO_i8)
   * [CppNow 2021](https://www.youtube.com/playlist?list=PL_AKIMJc4roXvFWuYzTL7Xe7j4qukOXPq) 
 * [Meeting C++](https://www.youtube.com/c/MeetingCPP/)
+  * [Meeting C++ 2024](https://www.youtube.com/playlist?list=PLRyNF2Y6sca0ApISGUPC6Epl2hEENGw9I)
   * [Meeting C++ 2023](https://www.youtube.com/playlist?list=PLRyNF2Y6sca0KMWJXADniEDufnFdIJz7l)
   * [Meeting C++ 2022](https://www.youtube.com/playlist?list=PLRyNF2Y6sca26zZjdpWS-NmRiKkJEOBFl)
   * [Meeting C++ 2021](https://www.youtube.com/playlist?list=PLRyNF2Y6sca1IY8wvpIQ8t2gQ49ncgwkr) 
