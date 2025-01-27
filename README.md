@@ -129,3 +129,4 @@
   * [МФТИ: C++ базовый курс - Константин Владимиров](https://www.youtube.com/playlist?list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK)
   * [МФТИ: С++ магистерский курс 2022-23 - Константин Владимиров](https://www.youtube.com/playlist?list=PL3BR09unfgcgf7R88ZQRQqWOdLy4pRW2h)
   * [ФКН ФШЭ: Курс «Продвинутый C++» (Данила Кутенин)](https://www.youtube.com/playlist?list=PLEqoHzpnmTfBLBdXciLaRAJOeLZVkJBWD)
+  * [Школа бэкенд-разработки C++ 2024](https://www.youtube.com/playlist?list=PLXtiZNKIobF6YCQk8auaCTLeZcO-TA3vp)
