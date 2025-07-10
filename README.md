@@ -55,6 +55,7 @@
   * [C++ Europe 2018](https://www.youtube.com/playlist?list=PLKkbEnCSP7sfCuSYTm7gh0leP-HzN7O35) 
 * [SwedenCpp](https://www.youtube.com/channel/UC_LAXFBuK7J2J6NLiYzdPEA)
 * [ACCU](https://www.youtube.com/c/ACCUConf/)
+  * [ACCU 2025](https://www.youtube.com/playlist?list=PL9hrFapz4dsOF2seghPwgXx6OcI7Fdbco)
   * [ACCU 2024](https://www.youtube.com/playlist?list=PL9hrFapz4dsMFj78AiNheJV2tFBgK_FbC)
   * [ACCU 2023](https://www.youtube.com/playlist?list=PL9hrFapz4dsPIxK50qZ_BAlvh_Gt9B1fm)
   * [ACCU 2022](https://www.youtube.com/playlist?list=PL9hrFapz4dsNx4kjMVgGMP6u37U1dSy7F)
