@@ -133,6 +133,7 @@
   * [ФПМИ: Программирование на языке С++ (базовый поток) (1 курс, осень 2021) - Шедов С. В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYFv2lj3ARJaTllQugxl2zF)
   * [ФПМИ: С++ и алгоритмы (Базовый поток) (1 курс, весна 2022) - Ибрагимов Б. Л.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvY1CNC2azvnDjkQfx5_S13l)
   * [ФПМИ: Программирование на языке С++ (Базовый поток) (1 курс, весна 2024) - Ибрагимов Б. Л.](https://www.youtube.com/playlist?list=PL4_hYwCyhAva4P9Aztc7Se5H0xDI92wmc)
+  * [ФПМИ: Программирование на языке С++ (Базовый поток) (1 курс, осень 2025) - Ибрагимов Б. Л.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbD8qXCG03FDAsVqnbZQEf0)
   * [МФТИ: C++ базовый курс - Константин Владимиров](https://www.youtube.com/playlist?list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK)
   * [МФТИ: С++ магистерский курс 2022-23 - Константин Владимиров](https://www.youtube.com/playlist?list=PL3BR09unfgcgf7R88ZQRQqWOdLy4pRW2h)
   * [ФКН ФШЭ: Курс «Продвинутый C++» (Данила Кутенин)](https://www.youtube.com/playlist?list=PLEqoHzpnmTfBLBdXciLaRAJOeLZVkJBWD)
